@@ -1,0 +1,102 @@
+path: \\?\C:\Users\ADMIN\Pictures\dataset_labelme\YOLODataset
+train: images/train
+val: images/val
+test:
+
+names:
+    0: elephant
+    1: deer
+    2: sofa
+    3: cai goi
+    4: cai den
+    5: cai ban
+    6: khung tranh
+    7: cua so
+    8: tivi
+    9: đàn lạc đà
+    10: tê giác
+    11: đà điểu
+    12: ngựa vằn
+    13: chim
+    14: hưu cao cổ
+    15: tu
+    16: tu xach
+    17: tuong con cong
+    18: tranh
+    19: binh hoa
+    20: ke tu
+    21: dau dia
+    22: ban
+    23: ghe
+    24: den treo tuong
+    25: chau cay nho
+    26: vat dung
+    27: tu nho
+    28: tham lot
+    29: sheep
+    30: meerkat
+    31: cay xanh
+    32: thang
+    33: sach
+    34: ho ca
+    35: sư tử mẹ
+    36: sư tử con 1
+    37: sư tử con 2
+    38: sư tử con 3
+    39: sư tử con 4
+    40: sư tử con 5
+    41: sư tử con 6
+    42: sư tử con 7
+    43: sư tử con 8
+    44: sư tử con 9
+    45: xe tham quan
+    46: sư tử
+    47: voi
+    48: hổ
+    49: đèn trần
+    50: bàn
+    51: đèn
+    52: ghế
+    53: rèm cửa
+    54: cây
+    55: Cá sấu
+    56: hà mã
+    57: cáo
+    58: vịt
+    59: chó sói
+    60: gà
+    61: khỉ
+    62: cua
+    63: chó
+    64: gấu
+    65: heo
+    66: mèo
+    67: lạc đà
+    68: rhino
+    69: camel
+    70: fox
+    71: monkey
+    72: tiger
+    73: hippo
+    74: zebra
+    75: bird
+    76: fish
+    77: shark
+    78: kangaroo
+    79: panda
+    80: lion
+    81: dolphin
+    82: beer
+    83: buffalo
+    84: goat
+    85: panther
+    86: wolf
+    87: anteater
+    88: ostrich
+    89: eagle
+    90: iguana
+    91: gecko
+    92: giraffe
+    93: chậu cây
+    94: con nai
+    95: ly
